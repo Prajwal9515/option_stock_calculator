@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/option_stock_calculator/static/css/main.4dd3c840.css",
+    "main.js": "/option_stock_calculator/static/js/main.574fd042.js",
+    "static/js/787.91785103.chunk.js": "/option_stock_calculator/static/js/787.91785103.chunk.js",
+    "index.html": "/option_stock_calculator/index.html",
+    "main.4dd3c840.css.map": "/option_stock_calculator/static/css/main.4dd3c840.css.map",
+    "main.574fd042.js.map": "/option_stock_calculator/static/js/main.574fd042.js.map",
+    "787.91785103.chunk.js.map": "/option_stock_calculator/static/js/787.91785103.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dd3c840.css",
+    "static/js/main.574fd042.js"
+  ]
+}
