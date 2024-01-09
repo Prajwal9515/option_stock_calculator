@@ -1,38 +1,38 @@
-.App {
-  text-align: center;
+
+.col-6{
+  /* padding: 100px; */
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.card {
+  margin: 100px;
+  padding: 50px;
+  background-color: white; /* Add this line if you want a white background for the card */
+  border-radius: 10px;
+  border-color: aliceblue;
+  border: solid;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
+.container-fluid {
+  background-image: url(https://wallpaperaccess.com/full/1393720.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0; /* Optionally, set padding to 0 to remove any default padding */
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+label{
+  font-family: 'Times New Roman', Times, serif, Geneva, Tahoma, sans-serif;
+  letter-spacing: 2px;
+  font-size: 20px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+p{
+  font-size: 30px;
+}
+
+h3{
+  /* background-color: rgb(142, 142, 189); */
+  font-size: 50px !important;
+  font-family: 'Times New Roman', Times, serif;
+  padding-bottom: 10px;
 }
